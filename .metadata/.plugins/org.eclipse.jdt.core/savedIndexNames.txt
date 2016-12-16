@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+E:\Eclipse_Neon\eclipse\Workspace\Misc\UtilityLibrary\.metadata\.plugins\org.eclipse.jdt.core

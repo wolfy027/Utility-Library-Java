@@ -4,7 +4,7 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 
 /**
- * @author Jomon Thanuvelil Johny
+ * @author Jomon Thanuvelil Johny1
  *
  */
 public class AlertUtil {
